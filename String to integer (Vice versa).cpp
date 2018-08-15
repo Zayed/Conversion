@@ -1,4 +1,4 @@
-﻿// String to number (Vice-Versa).cpp
+// string to integer (Vice versa).cpp
 
 #include <bits/stdc++.h>
 using namespace std;
